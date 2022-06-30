@@ -154,3 +154,5 @@ THUMBNAIL_ALIASES = {
 
     },
 }
+
+CRISPY_TEMPLATE_PACK = 'bootstrap4'
