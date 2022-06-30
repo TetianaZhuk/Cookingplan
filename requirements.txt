@@ -14,3 +14,4 @@ tinycss2==1.1.1
 webencodings==0.5.1
 psycopg2-binary==2.9.3
 pytz==2022.1
+django-bootstrap-v5==1.0.11
