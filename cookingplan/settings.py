@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     'menu',
     'ingredients',
     'users',
+    'bootstrap5',
 ]
 
 MIDDLEWARE = [
