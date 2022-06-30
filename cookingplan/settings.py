@@ -127,7 +127,7 @@ USE_TZ = True
 
 STATIC_URL = 'static/'
 
-STATIC_ROOT = '/var/www/html/static' + STATIC_URL
+STATIC_ROOT = '/var/www/html/static'
 
 STATICFILES_DIRS = [
     BASE_DIR / 'static'
